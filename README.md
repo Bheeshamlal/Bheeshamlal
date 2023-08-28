@@ -1,8 +1,8 @@
-### Hi there, Fahad Shahzad here 😍 
+### Hi there, Bheesham Solanki here 😍 
 
     
 ### Student Life
-    I did my matriculation and Intermediate from Higher Secondary School in Ghazi Ghat Pakistan... 
+    I did my intermediate in iba public school sukkur Pakistan... 
     For now, I am a Scholar at one of the reputed Universities (Sukkur IBA University) in Computer Science Major
 
 ###  Professional Side:
