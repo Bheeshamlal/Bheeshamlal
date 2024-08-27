@@ -3,7 +3,7 @@
     
 ### Student Life
     I did my intermediate in iba public school sukkur Pakistan... 
-    For now, I am a Scholar at one of the reputed Universities (Sukkur IBA University) in Computer Science Major
+    For now, I am a graduate of the reputed Universities (Sukkur IBA University) in Computer Science Major
 
 ###  Professional Side:
     I started my Professional Career as a Junior Software Engineer at the start of 4th Semester of my Graduation in the Software industry.
