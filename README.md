@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 About Me: Hey there, I am Bheesham Lal
+    I am a graduate of Computer Science Department and I have expertise in MERN stack development!
 🔭 I’m currently working on: Developing front-end projects and creating content related to JavaScript, focusing on both traditional and modern coding practices.<br><br>👯 I’m looking to collaborate on: Innovative front-end development projects, especially those utilizing React.js and MERN stack technologies.<br><br>🤝 I’m looking for help with: Networking with recruiters and developers to explore new job opportunities and gain insights into the latest industry trends.<br><br>🌱 I’m currently learning: Advanced JavaScript concepts, including modern frameworks and tools, while also enhancing my understanding of Express.js-supported databases.<br><br>💬 Ask me about: Front-end development, MERN stack projects, and my experiences as a Full-Stack Developer, including tips on succeeding in technical interviews.<br><br>⚡ Fun fact: I’m a JavaScript enthusiast who loves exploring the intersection of technology and literature, occasionally writing poetry in my spare time.
 
 
