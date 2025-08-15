@@ -64,7 +64,7 @@ When I'm not coding, I enjoy exploring literature and occasionally writing poetr
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bheeshamlal&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bheeshamlal&theme=dark&hide_border=false&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bheeshamlal&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bheeshamlal&layout=compact&langs_count=6&theme=dracula&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
